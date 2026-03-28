@@ -2,6 +2,8 @@
 
 Personal portfolio site for Prabhash Kumar, focused on Senior BI Developer and analytics leadership roles.
 
-Live site:
+Production site:
 `https://rkprabhash.github.io/Prabhash_portfolio/`
-portfolio of prabhash
+
+Development site:
+`https://rkprabhash.github.io/portfolio_dev/`
