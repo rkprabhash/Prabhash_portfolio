@@ -425,6 +425,7 @@ h3 {
     var(--bg-strong);
   display: grid;
   gap: 18px;
+  align-content: start;
 }
 
 .spotlight-card,
@@ -433,6 +434,7 @@ h3 {
   border-radius: 26px;
   padding: 20px;
   background: color-mix(in srgb, var(--surface) 84%, transparent);
+  align-self: start;
 }
 
 .score-grid {
